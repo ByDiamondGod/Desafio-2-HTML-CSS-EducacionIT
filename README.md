@@ -1,8 +1,9 @@
-  Replicas exactas de IMG hacia codigo
+  Replicas exactas de img y mp4 hacia codigo
   
    + ( HTML y CSS )
             
    + 3 WebSites
+   + En la carpeta assets esta el ejercicio para resolver
           
    + RESPONSIVE DESING
 
